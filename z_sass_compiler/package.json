@@ -1,0 +1,17 @@
+{
+  "name": "z_sass_compiler",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.css",
+  "scripts": {
+    "sass": "sass --watch *.sass:*.css sass:css",
+    "start": "http-server -p 90",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhishek Kumar Seth",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "sass": "^1.56.1"
+  }
+}

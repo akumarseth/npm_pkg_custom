@@ -1,0 +1,56 @@
+input[type=text].primary {
+  border: 1px solid orange;
+}
+input[type=text].primary.sm {
+  width: 50px;
+}
+input[type=text].primary.md {
+  width: 100px;
+  border: 2px solid red;
+}
+input[type=text].primary.lg {
+  width: 150px;
+  border: 2px solid green;
+}
+input[type=text].primary.xl {
+  width: 200px;
+  border: 2px solid blue;
+}
+input[type=text].secondary {
+  border: 1px solid cyan;
+}
+input[type=text].secondary.sm {
+  width: 50px;
+}
+input[type=text].secondary.md {
+  width: 100px;
+  border: 2px solid red;
+}
+input[type=text].secondary.lg {
+  width: 150px;
+  border: 2px solid green;
+}
+input[type=text].secondary.xl {
+  width: 200px;
+  border: 2px solid blue;
+}
+input[type=text].ternary {
+  border: 1px solid yellow;
+}
+input[type=text].ternary.sm {
+  width: 50px;
+}
+input[type=text].ternary.md {
+  width: 100px;
+  border: 2px solid red;
+}
+input[type=text].ternary.lg {
+  width: 150px;
+  border: 2px solid green;
+}
+input[type=text].ternary.xl {
+  width: 200px;
+  border: 2px solid blue;
+}
+
+/*# sourceMappingURL=tre-input-type-text.css.map */

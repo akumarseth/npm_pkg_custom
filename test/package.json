@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "aks_npm-demo-pkg": "^2.0.0",
+    "z_sass_compiler": "^1.0.2"
+  }
+}
